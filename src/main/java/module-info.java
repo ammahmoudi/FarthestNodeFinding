@@ -1,8 +1,9 @@
-module com.amg.graphvisualizer {
+module com.amg.farthestnodefinder {
     requires javafx.controls;
     requires javafx.fxml;
-            
-                            
-    opens com.amg.graphvisualizer to javafx.fxml;
-    exports com.amg.graphvisualizer;
+    requires JavaFXSmartGraph;
+
+
+    opens com.amg.farthestnodefinder to javafx.fxml;
+    exports com.amg.farthestnodefinder;
 }

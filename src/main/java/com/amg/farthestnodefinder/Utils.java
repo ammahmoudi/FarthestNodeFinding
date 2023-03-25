@@ -1,4 +1,4 @@
-package com.amg.graphvisualizer;
+package com.amg.farthestnodefinder;
 
 public class Utils {
     //finding maximum value and its frequency in given array.

@@ -1,4 +1,4 @@
-package com.amg.graphvisualizer;
+package com.amg.farthestnodefinder;
 
 public class DriverApp {
     public static void main(String[] args) {

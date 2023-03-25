@@ -1,4 +1,4 @@
-package com.amg.graphvisualizer;
+package com.amg.farthestnodefinder;
 
 import java.io.File;
 import java.io.FileNotFoundException;
